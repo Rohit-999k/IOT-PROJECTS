@@ -1,0 +1,22 @@
+# Arduino IDE build artifacts
+*.elf
+*.hex
+*.bin
+*.map
+*.d
+build/
+*.o
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+*.code-workspace
+
+# Compiled files
+*.exe
+*.out
+*.app
