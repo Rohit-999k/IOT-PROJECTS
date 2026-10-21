@@ -5,13 +5,13 @@
   <img src="https://img.shields.io/badge/Branch-ETC-red?style=for-the-badge" />
 </p>
 
-# 🌐 IoT Projects Portfolio — Electronics & Telecommunication Engineering
+# 🌐 IoT Projects Portfolio - Electronics & Telecommunication Engineering
 
 > A curated collection of **10 Internet of Things (IoT) projects** built using **Arduino UNO** and **NodeMCU ESP8266**, featuring a variety of sensors, actuators, and cloud platforms. Each project includes complete source code, circuit diagrams, connection tables, and detailed documentation.
 
 ---
 
-## 👤 About
+## 👤 About Projects
 
 - **Branch:** Electronics & Telecommunication Engineering (ETC)
 - **Domain:** Internet of Things (IoT), Embedded Systems
@@ -70,7 +70,7 @@
 ## 📁 Repository Structure
 
 ```
-ETC/
+IOT_PROJECTS/
 ├── README.md                                          ← You are here
 ├── Project-01-Smart-Temperature-Humidity-Monitor/
 │   ├── README.md
@@ -110,7 +110,7 @@ ETC/
 
 1. **Clone this repository:**
    ```bash
-   git clone https://github.com/<your-username>/ETC-IoT-Projects.git
+   git clone https://github.com/Rohit-999k/IOT-PROJECTS.git
    ```
 2. **Open any project folder** and read its `README.md` for full details.
 3. **Open the `.ino` file** in Arduino IDE.
